@@ -1,6 +1,6 @@
 /*
 SQLyog Community v13.1.6 (64 bit)
-MySQL - 5.7.21-log : Database - jobsdb
+MySQL - 8.1.-log : Database - jobsdb
 *********************************************************************
 */
 
